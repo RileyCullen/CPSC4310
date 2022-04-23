@@ -50,8 +50,6 @@ Note that for this dataset, boolean types are defined as features containing eit
 14. Asthma - A boolean type denoting if the person has asthma.
 15. KidneyDisease - A boolean type denoting if the person has kidney disease.
 16. SkinCancer - A boolean type denoting if the persoon has skin cancer.
-
-Below are additional values that resulted from one hot encoding.
 17. American Indian/Alaskan Native - A boolean type denoting if a person is american indian/alaskan native.
 28. Asian - A boolean type denoting if a person is asian.
 19. Black - A boolean type denoting if a person is black.
@@ -96,8 +94,6 @@ Note that boolean types in this dataset are defined to be either TRUE or FALSE.
 9. oldpeak - A decimal type denoting the amount of ST depression induced by exercise.
 10. ca - An integer type (0 - 3) denoting the number of major vessels colored by flourosopy. 
 11. num - An integer value (0 - 4) denoting the stage of heart disease a person has (0 - no heart disease, 4 - stage 4 heart disease).
-
-Below are additonal features resulting from one hot encoding.
 12. location_Cleveland - A boolean type denoting if the data was obtained from Cleveland.
 13. location_Hungary - A boolean type denoting if the data was obtained from Hungary. 
 14. location_Switzerland - A boolean type denoting if the data was obtained from Switzerland.
