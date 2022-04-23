@@ -21,10 +21,10 @@ Note that for this dataset, boolean types are defined as features containing eit
 7. MentalHealth - A decimal type indicating how many days within the past 30 days a person's mental health was defined as "not good".
 8. DiffWalking - A boolean type indiciating if a person has difficulty walking.
 9. Sex - A binary string type (Male/Female) denoting the participant's sex.
-10. Age - A 14-category string type (<= 17, 18-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50-54, 55-59, 60-64, 65-69, 70-74, 75-79, 80+) denoting the participant's age group.
+10. AgeCategory - A 14-category string type (<= 17, 18-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50-54, 55-59, 60-64, 65-69, 70-74, 75-79, 80+) denoting the participant's age group.
 11. Race - A 6-category string type (White, Black, Asian, American Indian/Alaskan Native, Other, Hispanic) denoting the participant's race.
 Todo: brief description of each attribute (what the attribute is about and its data type).
-12. Diabetes - A 3-category string type denoting what stage of diabetes a person has (No = No Diabetes, "No, borderline diabetes" = Prediabetes, Yes=Diabetes).
+12. Diabetic - A 3-category string type denoting what stage of diabetes a person has (No = No Diabetes, "No, borderline diabetes" = Prediabetes, Yes=Diabetes).
 13. PhysicalActivity - A boolean type denoting if the patient has done physicial activity or exercise withiin the past 30 days.
 14. GenHealth - A 6-category string (poor, fair, good, very good, excellent) denoting how well the person thinks of their health.
 15. SleepTime - A decimal type denoting the average amount of time (in hours) the participants sleeps.
